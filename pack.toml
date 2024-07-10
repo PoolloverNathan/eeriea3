@@ -1,0 +1,13 @@
+author = "EeeLee"
+name = "Eeriea S3"
+pack-format = "packwiz:1.1.0"
+version = "3.0.0"
+
+[index]
+file = "index.toml"
+hash = "acb903608414632ab41783af522b54ed1d28d2533614d39407428c60b09d300e"
+hash-format = "sha256"
+
+[versions]
+fabric = "0.15.11"
+minecraft = "1.20.1"

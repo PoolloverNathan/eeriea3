@@ -1,0 +1,13 @@
+filename = 'mvs-4.1.2-1.20-fabric.jar'
+name = "MVS - Moog's Voyager Structures"
+side = 'server'
+
+[download]
+hash = 'e1475f88623f53ef7609349af32acffcdcca80274d008096dd90369532a5198a6653a62d54bf97001edbb423ac172dbcf7f5298ad2c0e574f0973c21ad03f467'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/OQAgZMH1/versions/tbOvFJdA/mvs-4.1.2-1.20-fabric.jar'
+
+[update.modrinth]
+mod-id = 'OQAgZMH1'
+version = 'tbOvFJdA'

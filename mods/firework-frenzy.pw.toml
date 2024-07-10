@@ -1,0 +1,9 @@
+filename = 'fireworkfrenzy-1.5.1.20.1.jar'
+name = 'Firework Frenzy'
+side = 'both'
+
+[download]
+hash = 'e0b3598922907207d573577d372615674d62089dfd9bc8b53e4ffc94a3cab9cef76d8aa8bd31bdcfcf497ef2f89244667d3ba839d09e1cfd9be10bb58864462d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://github.com/ApoWillow/FireworkFrenzy1.20/releases/download/1.5/fireworkfrenzy-1.5-1.20.1.jar'

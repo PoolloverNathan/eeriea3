@@ -1,0 +1,13 @@
+filename = 'indium-1.0.32+mc1.20.1.jar'
+name = 'Indium'
+side = 'both'
+
+[download]
+hash = '4e9277a9d2c7a965663d537b3b4d0dd088945f16b9a06e56f2ff643bd9152a5553ece8e161cc5894bed0a22eef2ea80d50fc35f6b30e384ba264167c04893f13'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Orvt0mRa/versions/XPsoVC5n/indium-1.0.32%2Bmc1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'Orvt0mRa'
+version = 'XPsoVC5n'

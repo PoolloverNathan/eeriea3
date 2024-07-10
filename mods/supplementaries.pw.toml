@@ -1,0 +1,13 @@
+filename = 'supplementaries-1.20-2.8.17-fabric.jar'
+name = 'Supplementaries'
+side = 'both'
+
+[download]
+hash = '3b0f2bf9a1cb4c321da8599dabcfef4c6c02937805b22511bf4b2668d9ae0958669a642f3d4ded8265840b500b91295a37ff9dee224b328ced01e3c483b744de'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/fFEIiSDQ/versions/orOaPN2p/supplementaries-1.20-2.8.17-fabric.jar'
+
+[update.modrinth]
+mod-id = 'fFEIiSDQ'
+version = 'orOaPN2p'

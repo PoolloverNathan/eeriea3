@@ -1,0 +1,13 @@
+filename = 'collective-1.20.1-7.68.jar'
+name = 'Collective'
+side = 'both'
+
+[download]
+hash = 'a6fde7c245f35ecc517068c4b00dfa7e357e547ad254711969a6e12ee2e82792dba84d1c51f8d584b8c4f5775d5829ae0a3cb1baca4151a31f61a5160a8c46ec'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/e0M1UDsY/versions/atnFXlWd/collective-1.20.1-7.68.jar'
+
+[update.modrinth]
+mod-id = 'e0M1UDsY'
+version = 'atnFXlWd'

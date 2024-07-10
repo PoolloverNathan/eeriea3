@@ -1,0 +1,13 @@
+filename = 'mru-0.4.4+1.20.1.jar'
+name = "Mineblock's Repeated Utilities"
+side = 'both'
+
+[download]
+hash = '69ae56d86347e7275305f2014097b9236c88e126b7247b778a0f8d447f657919b268cec508c763e548669e10582dc04df3bffa4fd6bd7693d23817fbf646a42d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/SNVQ2c0g/versions/IWJh0MMO/mru-0.4.4%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'SNVQ2c0g'
+version = 'IWJh0MMO'

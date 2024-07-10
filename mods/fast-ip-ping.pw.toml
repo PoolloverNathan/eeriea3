@@ -1,0 +1,13 @@
+filename = 'fast-ip-ping-mc1.20.4-fabric-v1.0.3.jar'
+name = 'Fast IP Ping'
+side = 'both'
+
+[download]
+hash = '5e58e2d0c045f455bd19b4936d51c8bd69c3c6d8c730b3ee4b3eb1f5873ee5f45c88e67717e45a96e3aad9d23a89d86b0cc34867934a9063c6a030bf70e85f05'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/9mtu0sUO/versions/VaaDd7I7/fast-ip-ping-mc1.20.4-fabric-v1.0.3.jar'
+
+[update.modrinth]
+mod-id = '9mtu0sUO'
+version = 'VaaDd7I7'

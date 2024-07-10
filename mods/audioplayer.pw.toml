@@ -1,0 +1,13 @@
+filename = 'audioplayer-fabric-1.20.1-1.10.2.jar'
+name = 'AudioPlayer'
+side = 'both'
+
+[download]
+hash = 'aef0265954a24395f8a7e9f8ea5fd9edea29e8a175114845542f34520cc51a41a685031e7922b39302b32f2070264fef74f93fc6a342fc3eae1e8b2ef7020849'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/SRlzjEBS/versions/kzX85vih/audioplayer-fabric-1.20.1-1.10.2.jar'
+
+[update.modrinth]
+mod-id = 'SRlzjEBS'
+version = 'kzX85vih'
