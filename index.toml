@@ -874,6 +874,6 @@ file = "mods/vowels-1.0.0.jar"
 hash = "8856451775e76c398a6da6880924086ab5b67872f733bdc8c1bb38f09fedf83a"
 
 [[files]]
-file = "mods/create-fabric-0.5.1-f-build.1417+mc1.20.1.jar"
+file = "mods/create-fabric-0.5.1-f-build.1417+mc1.20.1+server.jar"
 hash = "6ec745d6db6a460fd65048dd49c0ea7925136d114a13266b14c89fd882beff21"
 side = "server"
