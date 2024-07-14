@@ -200,6 +200,11 @@ hash = "128ff5cac88320d9648e90af2dddaf8de102773ff57f4cea6e56379441de8441"
 metafile = true
 
 [[files]]
+file = "mods/create-train-perspective.pw.toml"
+hash = "c6c27f8b0afc39505a84bef081d07a376b6d16369f9f0e146ed5a9f0577ebacf"
+metafile = true
+
+[[files]]
 file = "mods/createaddition.pw.toml"
 hash = "b712feb8bc554049b0a947dd61ff6c0c75ec5fc3ce07c302b854d1430e4b66a3"
 metafile = true
