@@ -201,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-train-perspective.pw.toml"
-hash = "c6c27f8b0afc39505a84bef081d07a376b6d16369f9f0e146ed5a9f0577ebacf"
+hash = "3c24182afdaaabf6af9f2864cf287c13d7eb8aedc0bc23d747e2a03897ca6565"
 metafile = true
 
 [[files]]
