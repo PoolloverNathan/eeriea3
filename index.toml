@@ -690,6 +690,11 @@ hash = "64667aff28e700b96e409bc8d80f709a2b2764477e11a8172b7c780678add48d"
 metafile = true
 
 [[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "5d88c7862d2e4be63594c0ee314e94b87f72e9609c17cd027571f66977976bd7"
+metafile = true
+
+[[files]]
 file = "mods/small-ships.pw.toml"
 hash = "33d6bd21c58eddbebcd3a60a34f8f23c48feedcbb279d242ef5f9b12cbb8706c"
 metafile = true
@@ -876,7 +881,7 @@ metafile = true
 
 [[files]]
 file = "mods/vowels-1.0.0.jar"
-hash = "750398290cb48852712c290ba02906066ae0ad498369b426311724321aa408a7"
+hash = "8098920b12493f7c20b0915cdf77050dfdc28bcd971281c5351d5d27fa9bdd10"
 
 [[files]]
 file = "mods/create-fabric-0.5.1-f-build.1417+mc1.20.1+server.jar"
