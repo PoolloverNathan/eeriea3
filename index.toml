@@ -300,8 +300,8 @@ hash = "798e78427b1b8dfbe8afefffb9cf3fad8c0469677a2a9beaf650447a409c016a"
 metafile = true
 
 [[files]]
-file = "mods/farmers-delight-fabric.pw.toml"
-hash = "ef58edc07ac01a8693ebe4be66e34932e83a75a5c18ab267b8ebd57def341bc6"
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "cf169fb4cdb5150d06f4d5280a0eeef94bf6a08085c673bbed16eb1d53f753c3"
 metafile = true
 
 [[files]]
