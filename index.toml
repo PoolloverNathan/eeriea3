@@ -10,6 +10,16 @@ hash = "fd58ce45e8611029e22bce58afb2429c7de09a4e9c10a9a4db47985cd662693c"
 metafile = true
 
 [[files]]
+file = "mods/ae2.pw.toml"
+hash = "6178a1c07c4e181ba6e0edf4a4478d600add694ae4ffdd00b71dcee265ccfd2d"
+metafile = true
+
+[[files]]
+file = "mods/ae2cc.pw.toml"
+hash = "f6e9d6b215117ae01deca95270c7ff70afd27b7e736c415b869baaae90571e20"
+metafile = true
+
+[[files]]
 file = "mods/altorigingui.pw.toml"
 hash = "578d3c013c15fb679a82790ac6760a39faa91a594b5b3e81880a3b8d3ab49ca8"
 metafile = true
@@ -32,6 +42,16 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "8bdc78f52abc55d7d5c5c6c202062feb2d0fbd837b311f79977b5cc2ad25d86c"
+metafile = true
+
+[[files]]
+file = "mods/appli.pw.toml"
+hash = "7e64dec989da2a038a05403ce0ea93f8714e2b981636627f398c7dc5bc429d92"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "0806d55d9a5e7d7528cd13c5f25bff09274c48a883fe3fa351e8eae40efe1807"
 metafile = true
 
 [[files]]
@@ -617,6 +637,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "e46f93238e13f8e62ee97b63bb92cf50238411f8c98549eb1758d691b1e1f111"
+metafile = true
+
+[[files]]
+file = "mods/polymorphic-energistics.pw.toml"
+hash = "130981bded6ca76d84f5a998572cb02de769f9543e8abe65da140b87630ca01c"
 metafile = true
 
 [[files]]

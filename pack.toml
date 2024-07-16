@@ -5,7 +5,7 @@ version = "3.0.0"
 
 [index]
 file = "index.toml"
-hash = "07a363d41bfc8e554deb7afce5eb27c1f59db30280d846499ea045e85d7d6ecb"
+hash = "649d62024acd23dda79f130a7492d5ff479bab8c7b5c3852d25b994ba7432509"
 hash-format = "sha256"
 
 [versions]
