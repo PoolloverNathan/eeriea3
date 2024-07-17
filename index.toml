@@ -912,8 +912,3 @@ hash = "0845418076fe36e1be8f92e6a29a9cafa367eaaa32fdcd956cb1a3e61da0540c"
 file = "mods/create-fabric-0.5.1-f-build.1417+mc1.20.1+server.jar"
 hash = "6ec745d6db6a460fd65048dd49c0ea7925136d114a13266b14c89fd882beff21"
 side = "server"
-
-[[files]]
-file = "mods/FiguraExtras-1.0.1.jar"
-hash = "d0244b2226c65cdcb8a248583b692f419abfbe8cb36651b3e71e918be659d89e"
-side = "client"
