@@ -906,7 +906,7 @@ metafile = true
 
 [[files]]
 file = "mods/vowels-1.0.0.jar"
-hash = "76b1edfcb7f24cdf2e953002da4b9f48a9e1865a41a75b21eaf2096ee8bca348"
+hash = "913fdc30141f57b17b43f5856d4450612bfa64272a9b194ef346362d363be4f3"
 
 [[files]]
 file = "mods/create-fabric-0.5.1-f-build.1417+mc1.20.1+server.jar"
