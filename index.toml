@@ -906,9 +906,14 @@ metafile = true
 
 [[files]]
 file = "mods/vowels-1.0.0.jar"
-hash = "59ecd8e69f8a3e3022f98b29db1db7a9a5ca464f37425c7368f71287e68fea9e"
+hash = "031f0ccf9b4f56b939716c56b454051bb21610d76b09238a6af26b7c3ccd63a6"
 
 [[files]]
 file = "mods/create-fabric-0.5.1-f-build.1417+mc1.20.1+server.jar"
 hash = "6ec745d6db6a460fd65048dd49c0ea7925136d114a13266b14c89fd882beff21"
 side = "server"
+
+[[files]]
+file = "mods/FiguraExtras-1.0.1.jar"
+hash = "d0244b2226c65cdcb8a248583b692f419abfbe8cb36651b3e71e918be659d89e"
+side = "client"
