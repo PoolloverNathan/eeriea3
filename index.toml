@@ -914,6 +914,6 @@ hash = "6ec745d6db6a460fd65048dd49c0ea7925136d114a13266b14c89fd882beff21"
 side = "server"
 
 [[files]]
-file = "mods/figuraextras.jar"
+file = "mods/FiguraExtras-1.0.1.jar"
 hash = "d0244b2226c65cdcb8a248583b692f419abfbe8cb36651b3e71e918be659d89e"
 side = "client"
